@@ -1,7 +1,7 @@
-<h2 align="center">Hey 👋, I'm Noor</h2>
+<h2 align="center">Hey 👋, I'm Sondos</h2>
 <h4 align="center">Offensive Security | Web Application Penetration Tester | CTF Player </h4>
 
-<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21paHdneDY0bGFvdG90a2hieHF4bGNnNWtvMXlxN2d3cnpsYnUydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" />
+<img  width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21paHdneDY0bGFvdG90a2hieHF4bGNnNWtvMXlxN2d3cnpsYnUydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" />
 
 <p align="center">
   <a href="mailto:YOUR-EMAIL">
